@@ -3,3 +3,9 @@
 3) clone repository and use command in terminal
 	git clone https://github.com/petemi09/cs_165gh.git
 4) create a new .txt file 
+5) added questions 5-10 in git hub.
+6)
+7)
+8)
+9)
+10)

@@ -4,8 +4,9 @@
 	git clone https://github.com/petemi09/cs_165gh.git
 4) create a new .txt file 
 5) added questions 5-10 in git hub.
-6)
-7)
-8)
-9)
+6) git pull
+7) rm exercise_9.txt
+8) git reset HEAD exercise_9.txt
+   git checkout exercise_9.txt
+9) followed the tutorial for ssh keys, and switched from https to ssh in my repository.
 10)

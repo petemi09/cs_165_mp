@@ -1,0 +1,5 @@
+1) create an account at github
+2) create a new repository
+3) clone repository and use command in terminal
+	git clone https://github.com/petemi09/cs_165gh.git
+4) create a new .txt file 

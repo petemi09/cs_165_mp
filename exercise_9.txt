@@ -9,4 +9,4 @@
 8) git reset HEAD exercise_9.txt
    git checkout exercise_9.txt
 9) followed the tutorial for ssh keys, and switched from https to ssh in my repository.
-10)
+10) invited yasionvskyy to my private repository. 
